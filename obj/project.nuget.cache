@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmcA46ukoAX9zx7LiwLTjZft0AbDKey5WUqtGdEuC1sjIiez4YJ4QMTGGleudyCShmWhAtyZUnKdIDuIITKgnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nunes\\Documents\\CSharp\\cadastro-series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nunes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
